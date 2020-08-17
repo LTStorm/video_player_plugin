@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fabb672c-b090-483b-a444-5639fbfc11b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/example/android/app">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fwcge1rmcRDNVhGpmnE5PKWkJ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC062\AndroidStudioProjects\video_player_plugin\video" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabb672c-b090-483b-a444-5639fbfc11b3" name="Default Changelist" comment="" />
+      <created>1597132707314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597132707314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="157" y="224" key="#PSD" timestamp="1597303084833">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="157" y="224" key="#PSD/0.0.1280.984@0.0.1280.984" timestamp="1597303084833" />
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597302770918">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="94" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984@0.0.1280.984" timestamp="1597302770918" />
+    <state x="431" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1597133299201">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="431" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1597133299201" />
+    <state x="488" y="381" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597133787472">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="488" y="381" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.984@0.0.1280.984" timestamp="1597133787472" />
+    <state width="1237" height="205" key="GridCell.Tab.0.bottom" timestamp="1597387221190">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="205" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1597387221190" />
+    <state width="1237" height="205" key="GridCell.Tab.0.center" timestamp="1597387221190">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="205" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1597387221190" />
+    <state width="1237" height="205" key="GridCell.Tab.0.left" timestamp="1597387221190">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="205" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1597387221190" />
+    <state width="1237" height="205" key="GridCell.Tab.0.right" timestamp="1597387221190">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="205" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1597387221190" />
+    <state x="220" y="235" key="IDE.errors.dialog" timestamp="1597303201528">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="220" y="235" key="IDE.errors.dialog/0.0.1280.984@0.0.1280.984" timestamp="1597303201528" />
+    <state x="141" y="134" key="SettingsEditor" timestamp="1597303454736">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="141" y="134" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1597303454736" />
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1597395323399">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1597395323399" />
+  </component>
+</project>
