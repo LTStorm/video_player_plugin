@@ -5,10 +5,7 @@ public class SwiftVideoPlayerPlugin: NSObject, FlutterPlugin {
   public static func register(with registrar: FlutterPluginRegistrar) {
     let channel = FlutterMethodChannel(name: "video_player_plugin", binaryMessenger: registrar.messenger())
     let instance = SwiftVideoPlayerPlugin()
-    registrar.addMethodCallDelegate(instance, channel: channel)
-  }
-
-  public func handle(_ call: FlutterMethodCall, result: @escaping FlutterResult) {
-    result("iOS " + UIDevice.current.systemVersion)
+    let factory = VideoPlayerFactory(messenger:registrar.messenger())
+    registrar.register(factory as FlutterPlatformViewFactory,withId:"video_player_plugin")
   }
 }
