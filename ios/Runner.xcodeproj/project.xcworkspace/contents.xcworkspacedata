@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../Assets"
+      name = "Assets">
+   </Group>
+   <Group
+      location = "group:../Classes"
+      name = "Classes">
+      <FileRef
+         location = "group:VideoPlayerPlugin.m">
+      </FileRef>
+      <FileRef
+         location = "group:SwiftVideoPlayerPlugin.swift">
+      </FileRef>
+      <FileRef
+         location = "group:VideoPlayerPlugin.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>

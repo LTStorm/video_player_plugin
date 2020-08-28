@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - GPUImage (0.1.7)
+  - video_player_plugin (0.0.1):
+    - Flutter
+    - GPUImage
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - video_player_plugin (from `.symlinks/plugins/video_player_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - GPUImage
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  video_player_plugin:
+    :path: ".symlinks/plugins/video_player_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  video_player_plugin: 356be9406480790d28b2f11f627ec7b72090f559
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
